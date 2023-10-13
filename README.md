@@ -4,7 +4,7 @@
 
 💬 저에게 물어보고 싶은 것이 있다면 언제든지 연락주세요!
 📫 연락 방법: seongjimin199@gmail.com
-😄 취미: [취미/관심사]
+
 
 ### 🔧 기술 스택 & 도구
 - **개발 언어**: Java, Html + Css + JavaScript
