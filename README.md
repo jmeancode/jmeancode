@@ -9,7 +9,7 @@
 ### 🔧 기술 스택 & 도구
 - **개발 언어**: Java, Html + Css + JavaScript
 - **프레임워크**: React, Node.js, Springboot
-- **도구**: Docker, Git, Jenkins, notion, jira,gather
+- **도구**: Docker, Git, Jenkins, Notion, Jira, Gather
 - **데이터베이스**: MySQL
 - **기타**: NaverCloud
 
